@@ -1,5 +1,5 @@
-Agenda Personal con Tkinter
-¡Bienvenido(a) a la Agenda Personal desarrollada con Tkinter en Python!
+Agenda Personal con Tkinter.  
+ ¡Bienvenido(a) a la Agenda Personal desarrollada con Tkinter en Python!
 Esta aplicación te permite agregar, visualizar y eliminar eventos o tareas, manteniendo tu organización de forma sencilla.
 
 Características
